@@ -1,0 +1,65 @@
+html, body{
+width:100%;
+height: 100%;
+}
+
+body{
+    width: 100%;
+    height: 100%;
+    background-attachment: fixed;
+    background: #2980b9;  /* fallback for old browsers */
+    background: -webkit-linear-gradient(to right, #2c3e50, #2980b9);  /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to right, #2c3e50, #2980b9); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+}
+
+.tituloAlineado{
+text-align: center;
+}
+
+.titulo{
+    color:white;
+    font-size:68px;
+}
+
+.unam{
+    font-size:60px;
+    color:#DAA520;
+}
+
+.slogan{
+    color:white;
+    font-size:14px;
+    text-align: center;
+   /* font-style: italic; */
+}
+
+.opinion{
+    color:white;
+    font-size:14px;
+    text-align: center;
+    font-style: italic;
+}
+
+.autorOpinion{
+    color:white;
+    font-size:14px;
+    text-align: center;
+}
+
+.autorName{
+    color:white;
+    font-size:12px;
+    text-align: right;
+}
+
+.autorInfo{
+    color:white;
+    font-size:12px;
+    text-align:right;
+}
+
+.comofunciona{
+    color:white;
+    font-size:30px;
+    text-align:center;
+}
